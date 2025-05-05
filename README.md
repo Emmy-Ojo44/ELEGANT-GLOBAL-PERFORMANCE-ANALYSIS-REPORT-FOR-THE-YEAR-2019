@@ -1,0 +1,2 @@
+# ELEGANT-GLOBAL-PERFORMANCE-ANALYSIS-REPORT-FOR-THE-YEAR-2019
+The analysis was conducted to support the identification of key trends and patterns which was achieved from a deep dive into different salespersons, regions, customers and cities to provide insights for data-driven decision making.  The findings from this analysis will help the business evaluate their sales performance  and increase  revenue.
